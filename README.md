@@ -1,6 +1,6 @@
 ### Hi There! Glad you are here! 👋
 
-- I'm James Lundin, a software developer passionate in developing eloquent solutions to unique software requirements. I am experienced in many programming languages and frameworks and believe that the best tools to use are the ones that best compliment the task at hand. Because of this belief I am constantly learning new technologies and am able to quickly adapt to any environment.
+I'm James Lundin, a software developer passionate in developing eloquent solutions to unique software requirements. I am experienced in many programming languages and frameworks and believe that the best tools to use are the ones that best compliment the task at hand. Because of this belief I am constantly learning new technologies and am able to quickly adapt to any environment.
 
 **My Passions**
 - 💻 Development, I actually left a successful career in Facilities Management in 2018 to create my own web development company [The Code Diver](https://thecodediver.com)
