@@ -1,12 +1,12 @@
-### Hi There! Glad you are here! 👋
+### Hi There! Glad you're here! 👋
 
 I'm James Lundin, a software developer passionate in developing eloquent solutions to unique software requirements. I am experienced in many programming languages and frameworks and believe that the best tools to use are the ones that best compliment the task at hand. Because of this belief I am constantly learning new technologies and am able to quickly adapt to any environment.
 
 **My Passions**
 - 💻 Development, I actually left a successful career in Facilities Management in 2018 to create my own web development company [The Code Diver](https://thecodediver.com)
-- 🤿 Scuba Diving, I first started diving in June of 2017 after completing my open water diver certification through PADI then in July of 2018 I completed my advanced open water diver certification as well as my enriched air diver certification. I have completed dives in Grand Cayman, Cozumel, Belize and Fort Lauderdale.
-- 🏆 Sports, I grew up just south of Boston, Ma so sports are in my blood, for this reason I would love to work in the Sports Tech field.
-- 🗺️ Travel, I completed my first trip abroad 7 years ago, on that trip I met my fiance and absolutely fell in love with traveling, meeting new people, and learning about cultures outside of my own. I believe that the only way to grow is to experience, and for me the best part about traveling is gaining those new experiences, whether is it meeting someone who walks a different path than your own, or experiencing the way a different culture lives. For all these reasons I would love to work in the Travel Tech field and help others experience that connection to the world and all the personal growth it brings. 
+- 🤿 Scuba Diving, I first started diving in June of 2017 after completing my open water diver certification through PADI. Then, in July of 2018 I completed my advanced open water diver certification as well as my enriched air diver certification. I have completed dives in Grand Cayman, Cozumel, Belize and Fort Lauderdale.
+- 🏆 Sports, I grew up just south of Boston, Ma so sports are in my blood. For this reason I would love to work in the Sports Tech field.
+- 🗺️ Travel, I completed my first trip abroad 7 years ago. On that trip, I met my fiance and absolutely fell in love with traveling, meeting new people, and learning about cultures outside of my own. I believe that the only way to grow is through experience, and for me, the best part about traveling is gaining those new experiences, whether is it meeting someone who walks a different path than your own, or experiencing the way a different culture lives. For all these reasons I would also very much enjoy working in the Travel Tech field and help others experience that connection to the world and all the personal growth it brings. 
 
 **What I'm Up Too Now**
 - 🔭 I’m currently working on ... Lambda Alumni Network - A React application for Alumni of Lambda School to connect, communicate, and continue to grow
