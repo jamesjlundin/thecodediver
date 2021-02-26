@@ -1,7 +1,4 @@
-### Here is what I'm working on! 👋
-
-
-Here are some ideas to get you started:
+### A little about me! 👋
 
 - 🔭 I’m currently working on ... Lambda Alumni Network - A React application for Alumni of Lambda School to connect, communicate, and continue to grow
 - 🌱 I’m currently learning ... Django!
