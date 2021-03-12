@@ -8,7 +8,7 @@ I'm James Lundin, a software developer passionate in developing eloquent solutio
 - 🏆 Sports, I grew up just south of Boston, Ma so sports are in my blood. For this reason I would love to work in the Sports Tech field.
 - 🗺️ Travel, I completed my first trip abroad 7 years ago. On that trip, I met my fiance and absolutely fell in love with traveling, meeting new people, and learning about cultures outside of my own. I believe that the only way to grow is through experience, and for me, the best part about traveling is gaining those new experiences, whether is it meeting someone who walks a different path than your own, or experiencing the way a different culture lives. For all these reasons I would also very much enjoy working in the Travel Tech field and help others experience that connection to the world and all the personal growth it brings. 
 
-**What I'm Up Too Now**
+**What I'm Up To Now**
 - 🔭 I’m currently working on ... [Half Way There](https://halfwaythere.netlify.app) - A React application for identifying meeting locations in the middle of two addresses based on the type of location input (ie restaurant, or coffee shop)
 - 🌱 I’m currently learning ... React Native!
 - 👯 I’m looking to collaborate on ... React Native projects
