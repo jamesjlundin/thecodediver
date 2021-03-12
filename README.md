@@ -9,13 +9,13 @@ I'm James Lundin, a software developer passionate in developing eloquent solutio
 - 🗺️ Travel, I completed my first trip abroad 7 years ago. On that trip, I met my fiance and absolutely fell in love with traveling, meeting new people, and learning about cultures outside of my own. I believe that the only way to grow is through experience, and for me, the best part about traveling is gaining those new experiences, whether is it meeting someone who walks a different path than your own, or experiencing the way a different culture lives. For all these reasons I would also very much enjoy working in the Travel Tech field and help others experience that connection to the world and all the personal growth it brings. 
 
 **What I'm Up Too Now**
-- 🔭 I’m currently working on ... Lambda Alumni Network - A React application for Alumni of Lambda School to connect, communicate, and continue to grow
-- 🌱 I’m currently learning ... Django!
-- 👯 I’m looking to collaborate on ... Django projects
+- 🔭 I’m currently working on ... Half Way There - A React application for identifying meeting locations in the middle of two addresses based on the type of location input (ie restaurant, or coffee shop)
+- 🌱 I’m currently learning ... React Native!
+- 👯 I’m looking to collaborate on ... React Native projects
 - 💬 Ask me about ... Anything really, I love to learn from others and give away any insight I have!
 - 📫 How to reach me: ... jamesjlundin@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I have tried out for American Idol
 
 **My Current Tech Experience**
-Python | Javascript | PHP | Java | React | Redux | WordPress | Node/Express | Firebase | AWS | Heroku | Cloudinary | NodeMailer | REST | RESTful APIs | JQuery | SASS | YUP | Django | ... various other npm tools 
+Python | Javascript | PHP | Java | React | Redux | WordPress | Node/Express | Firebase | AWS | Heroku | Cloudinary | NodeMailer | REST | RESTful APIs | JQuery | SASS | YUP | React Native | ... various other npm tools 
