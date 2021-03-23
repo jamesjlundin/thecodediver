@@ -23,15 +23,15 @@ Python | Javascript | PHP | Java | React | Redux | WordPress | Node/Express | Fi
 
 LinkedIn
 
-**Email:**
+**Email:**\
 
 **Phone:**
 
-**Role(s):** 
-**Industry:** 
-**Location:** 
-**Interests:** 
-**Mem usage:** 
+**Role(s):** \
+**Industry:** \
+**Location:** \
+**Interests:** \
+**Mem usage:** \
 
 **Other notes:**
 - 
