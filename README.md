@@ -23,8 +23,10 @@ Python | Javascript | PHP | Java | React | Redux | WordPress | Node/Express | Fi
 
 LinkedIn
 
-**Email:** 
-**Phone:** 
+**Email:**
+
+**Phone:**
+
 **Role(s):** 
 **Industry:** 
 **Location:** 
