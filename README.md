@@ -19,3 +19,36 @@ I'm James Lundin, a software developer passionate in developing eloquent solutio
 
 **My Current Tech Experience**
 Python | Javascript | PHP | Java | React | Redux | WordPress | Node/Express | Firebase | AWS | Heroku | Cloudinary | NodeMailer | REST | RESTful APIs | JQuery | SASS | YUP | React Native | ... various other npm tools 
+
+
+**Examples of things we must differentiate on**
+- Referenced Note:Mem as a natural language database
+
+- Mem Spotlight
+- Here, inspiration should be drawn from from a) databases b) cutting edge NLP research — not from competitors
+- No folders!
+
+# Double down on strength
+
+At any given point in time, you can either focus on improving your weaknesses or furthering your strengths.
+
+At Mem Labs, we bias towards doubling down on what is already working — to turn good into great and great into world-class.
+
+This is especially important for early-stage startups, who are either a) looking for a wedge to enter an existing market or b) trying to convert new users towards the creation of a new market (i.e. a religion). 
+
+As a company matures, this will necessarily change (i.e. weaknesses become higher ROI to improve) — but we will always bias towards furthering our strengths.
+
+# Ask for forgiveness, not permission.
+
+It's not an accident that this is the 2nd value listed. The biggest advantage — some would argue _**only**_ — that a startup has over larger incumbents is the ability to move faster (specifically, to make decisions faster and more decisively). 
+
+If we are unwilling to accept the inevitable consequences (e.g. bugs!) that come with our primary advantage then we might as well wire the money back to our investors and join FANG.
+
+This is particularly true of decisions that are reversible (e.g. decisions that are not [trap-door decisions](https://stevecheney.com/avoiding-trapdoor-decisions/)).
+
+# Mem Labs Culture & Virtues (WIP)
+
+#culture
+
+## 
+## Virtues
