@@ -19,3 +19,29 @@ I'm James Lundin, a software developer passionate in developing eloquent solutio
 
 **My Current Tech Experience**
 Python | Javascript | PHP | Java | React | Redux | WordPress | Node/Express | Firebase | AWS | Heroku | Cloudinary | NodeMailer | REST | RESTful APIs | JQuery | SASS | YUP | React Native | ... various other npm tools 
+
+
+The Arc of Collaboration - kwokchain
+
+@James Lundin
+
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png)
+
+## Mem User Pulse 3/29
+cc 
+#pulse
+
+#UserInterviews
+
+
+**Notable Interviews This Week**
+- Referenced Note:Onboarding Call with Jordan Kutzer
+, a Mem user since Feb who has some cool thoughts about the product after using it for a few months. Also gives insight into what users can't understand just from self-onboarding. 
+
+
+**User feedback**
+- It's like Roam research and Pocket rolled into one (Referenced Note:Onboarding Call with JJ MacLean
+) 
+- SMS to Inbox is "by far the most advanced note-taking feature of any note-taking app he's used" (Referenced Note:Onboarding Call with Nikhil Saraf
+)
