@@ -20,3 +20,17 @@ I'm James Lundin, a software developer passionate in developing eloquent solutio
 **My Current Tech Experience**
 Python | Javascript | PHP | Java | React | Redux | WordPress | Node/Express | Firebase | AWS | Heroku | Cloudinary | NodeMailer | REST | RESTful APIs | JQuery | SASS | YUP | React Native | ... various other npm tools 
 
+# Hey Man
+Trying **everything** to see _all_ inserts
+#getitrightmeow
+@Matt Wardrop
+- [ ] Do this now
+- [ ] Hey there
+- List item one
+- List item two
+
+
+![](https://www.airlineratings.com/wp-content/uploads/uploads/csm_Sketch_Aerial_01_bd5ac18443-1.jpg)
+Referenced Note:mikejones
+
+[https://www.youtube.com/watch?v=MN-sh_glfhc](https://www.youtube.com/watch?v=MN-sh_glfhc)
