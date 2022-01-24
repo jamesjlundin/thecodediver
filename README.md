@@ -18,4 +18,4 @@ I'm James Lundin, a software developer passionate in developing eloquent solutio
 - ⚡ Fun fact: ... I have tried out for American Idol
 
 **My Current Tech Experience**
-Javascript | PHP | Python | Java | GraphQl | React | Redux | WordPress | Node/Express | Firebase | GCP | AWS | Heroku | Cloudinary | REST | RESTful APIs | JQuery | SASS | YUP | React Native | ... various other npm tools 
+Javascript/Typescript | PHP | Python | Java | GraphQl | React | Redux | WordPress | Node/Express | Firebase | GCP | AWS | Heroku | Cloudinary | REST | RESTful APIs | JQuery | SASS | YUP | React Native | ... various other npm tools 
